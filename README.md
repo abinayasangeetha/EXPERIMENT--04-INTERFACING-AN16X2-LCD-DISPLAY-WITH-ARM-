@@ -1,4 +1,8 @@
-# EX-04 INTERFACING AN16X2 LCD DISPLAY WITH ARM AND DISPLAY STRING
+```
+Name: ABINAYA S
+Reg No: 212222230002
+```
+# EX 04 INTERFACING AN16X2 LCD DISPLAY WITH ARM AND DISPLAY STRING
 ### Aim: 
 To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ### Components required: 
@@ -178,7 +182,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif
 ```
+### Output Screenshot of the proteus
+![op pmc](https://github.com/abinayasangeetha/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393675/faadba17-a076-4c68-b7c9-e0f58cc0dae2)
+
 ### CIRCUIT DIAGRAM 
+![image](https://github.com/abinayasangeetha/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393675/10a384c2-0aa8-4253-a80c-44e1d5f3d5fe)
 
 ### Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
