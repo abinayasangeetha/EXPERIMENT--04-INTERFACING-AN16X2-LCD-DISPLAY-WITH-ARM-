@@ -192,10 +192,10 @@ static void MX_GPIO_Init(void)
 
 ```
 ### Output Screenshot of the proteus
-<img src=" https://github.com/abinayasangeetha/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393675/faadba17-a076-4c68-b7c9-e0f58cc0dae2 " width=450 height=450>
+<img src="https://github.com/abinayasangeetha/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393675/faadba17-a076-4c68-b7c9-e0f58cc0dae2 " width=450 height=450>
 
 ### CIRCUIT DIAGRAM 
-<img src=" https://github.com/abinayasangeetha/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393675/10a384c2-0aa8-4253-a80c-44e1d5f3d5fe" width=450 height=450>
+<img src="https://github.com/abinayasangeetha/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393675/10a384c2-0aa8-4253-a80c-44e1d5f3d5fe" width=450 height=450>
 
 ### Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
