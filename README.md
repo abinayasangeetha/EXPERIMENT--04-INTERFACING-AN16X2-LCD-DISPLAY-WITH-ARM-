@@ -120,21 +120,21 @@ Jump to second line, position 2
  
  
 ### Procedure:
-Open a new STM32 Project.
+1.Open a new STM32 Project.
 
-Selecting GPIO Ports
+2.Selecting GPIO Ports
 ```
 PA0 ,PA1 ,PA2 ,PA3 ,PB0 ,PB1 -> GPIO Output
 ```
-generating the code.
+3.generating the code.
 
-Build Debug and Create 'hex file'.
+4.Build Debug and Create 'hex file'.
 
-Open a new Proteus Project.
+5.Open a new Proteus Project.
 
-Select Ports STM32F401RB and LCD 16*2
+6.Select Ports STM32F401RB and LCD 16*2
 
-Connect PA0 to D7 , PA1 to D6 , PA2 to D5 , PA3 to D5 , RS to PB0 and E to PB1.
+7.Connect PA0 to D7 , PA1 to D6 , PA2 to D5 , PA3 to D5 , RS to PB0 and E to PB1.
 
 ### STM 32 CUBE PROGRAM :
 ```
