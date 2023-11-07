@@ -124,11 +124,8 @@ Open a new STM32 Project.
 
 Selecting GPIO Ports
 ```
-
-PA0 ,PA1 ,PA2 ,PA3 ,PB0 ,PB1
+PA0 ,PA1 ,PA2 ,PA3 ,PB0 ,PB1 -> GPIO Output
 ```
--> GPIO Output
-
 generating the code.
 
 Build Debug and Create 'hex file'.
